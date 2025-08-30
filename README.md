@@ -6,8 +6,7 @@
 
 <div align="center">  
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiroFC)](https://github.com/GiroFC/github-readme-stats)
-  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiroFC&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiroFC&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
